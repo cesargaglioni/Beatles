@@ -25,7 +25,7 @@ Aqui estão descritas as features que serão analisadas neste projeto. Elas têm
 # Insights
 
 ## As 5 músicas mais populares dos Beatles
-Depois daanálise dos dados, é possível identificar que as 5 músicas mais populares dos Beatles são: "Here Comes the Sun", "Let it Be", "Come Together", "Yesterday" e "Blackbird". Estas músicas são verdadeiros clássicos e continuam a ser apreciados por fãs do mundo inteiro, décadas após seu lançamento.
+Depois da  análise dos dados, é possível identificar que as 5 músicas mais populares dos Beatles são: "Here Comes the Sun", "Let it Be", "Come Together", "Yesterday" e "Blackbird". Estas músicas são verdadeiros clássicos e continuam a ser apreciados por fãs do mundo inteiro, décadas após seu lançamento.
 
 # Conclusão
 Espera-se que este projeto permita entender melhor a evolução musical dos Beatles e as características que tornam uma música mais popular
